@@ -3,3 +3,5 @@ description: Newnuke is a creating-for-learning PHP framework
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  zip_url: http://github.com/yeungon/newnuke
