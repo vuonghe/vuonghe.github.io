@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to New Nuke Framework
 
 You can use the [editor on GitHub](https://github.com/vuonghe/vuonghe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
