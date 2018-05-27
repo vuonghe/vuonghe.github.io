@@ -1,2 +1,2 @@
 ## About
-This is the about page.
+New Nuke is a being born PHP Framework.
