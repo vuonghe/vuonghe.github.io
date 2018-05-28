@@ -1,10 +1,10 @@
 title: NewNuke
 description: Newnuke is a creating-for-learning PHP framework
 show_downloads: true
-github.is_project_page: true
-repository_url: https://github.com/yeungon/newnuke
+is_project_page: true
 google_analytics:
 theme: jekyll-theme-cayman
 github:
   zip_url: https://github.com/yeungon/NewNuke/archive/master.zip
   tar_url: http://github.com/yeungon/newnuke
+  repository_url: https://github.com/yeungon/newnuke
